@@ -1,0 +1,22 @@
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.AssemblyReference.cache
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.SuggestedBindingRedirects.cache
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter_Plane.Form1.resources
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter_Plane.Properties.Resources.resources
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.GenerateResource.cache
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.CoreCompileInputs.cache
+D:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.exe.config
+D:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.exe
+D:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.pdb
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.exe
+D:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.pdb
+F:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.exe.config
+F:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.exe
+F:\Project\Fighter Plane\Fighter Plane\bin\Debug\Fighter Plane.pdb
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.AssemblyReference.cache
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.SuggestedBindingRedirects.cache
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter_Plane.Form1.resources
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter_Plane.Properties.Resources.resources
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.GenerateResource.cache
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.csproj.CoreCompileInputs.cache
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.exe
+F:\Project\Fighter Plane\Fighter Plane\obj\Debug\Fighter Plane.pdb

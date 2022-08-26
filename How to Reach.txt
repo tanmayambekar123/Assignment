@@ -1,0 +1,7 @@
+How to Reach Game
+
+
+Fighter Plane -> bin -> Debug -> Fighter Plane.exe file
+
+
+Enjoy Your Game
